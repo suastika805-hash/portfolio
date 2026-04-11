@@ -90,14 +90,14 @@ export default function About() {
             }`}
           >
             <h2 className="font-display text-4xl sm:text-5xl text-fg leading-tight mb-8">
-              Seorang developer
+              Seorang anak IT
               <br />
               <span className="italic text-accent">yang penasaran</span>
             </h2>
 
             <div className="space-y-5 text-muted leading-relaxed">
               <p>
-                Halo! Saya <strong className="text-fg font-medium">Komang Swastika</strong>, mahasiswa Teknik Informatika semester awal di Primakara University, Bali. Saya memiliki ketertarikan mendalam pada pengembangan web dan teknologi informasi.
+                Halo! Saya <strong className="text-fg font-medium">Komang Swastika</strong>, mahasiswa Teknik Informatika semester 4 di Primakara University, Bali. Saya memiliki ketertarikan mendalam pada pengembangan web dan teknologi informasi.
               </p>
               <p>
                 Perjalanan saya di dunia teknologi dimulai dari rasa ingin tahu tentang bagaimana sebuah website bekerja. Kini saya terus belajar dan mengasah kemampuan dalam membangun antarmuka yang bersih, fungsional, dan ramah pengguna.
