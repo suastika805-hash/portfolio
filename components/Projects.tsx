@@ -7,7 +7,7 @@ const projects = [
     id: 1,
     name: "Aplikasi Pemesanan Kopi Cepat",
     description:
-      "Aplikasi masih dalam bentuk prototype dan akan saya kembangkan lebih lanjut. Pengguna dapat memilih menu, mengustomisasi pesanan (ukuran, susu, level gula), lalu checkout dalam hitungan detik. Dilengkapi fitur riwayat pesanan dan estimasi waktu pengambilan.",
+      "Aplikasi web untuk memesan kopi dengan cepat dan mudah. Pengguna dapat memilih menu, mengustomisasi pesanan (ukuran, susu, level gula), lalu checkout dalam hitungan detik. Dilengkapi fitur riwayat pesanan dan estimasi waktu pengambilan.",
     tech: ["Next.js", "Tailwind CSS", "MySQL", "TypeScript"],
     status: "In Progress",
     icon: "☕",
@@ -66,7 +66,8 @@ export default function Projects() {
           }`}
         >
           Kumpulan proyek yang saya bangun untuk mengasah kemampuan dan
-          menyelesaikan masalah nyata. Setiap proyek adalah pembelajaran baru.
+          menyelesaikan masalah nyata. Setiap proyek adalah pembelajaran baru. 
+          Aplikasi ini masih dalam bentuk prototype dan akan saya kembangkan lebih lanjut.
         </p>
 
         {/* Project Cards */}
