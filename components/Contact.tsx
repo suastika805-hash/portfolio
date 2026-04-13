@@ -60,7 +60,7 @@ export default function Contact() {
           }`}
         >
           <span className="font-mono text-xs text-accent tracking-widest uppercase">
-            03 / Contact
+            04 / Contact
           </span>
           <span className="flex-1 h-px bg-border" />
         </div>
