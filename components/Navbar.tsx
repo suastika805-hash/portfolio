@@ -33,7 +33,7 @@ export default function Navbar() {
       <div className="max-w-5xl mx-auto px-6 flex items-center justify-between">
         {/* Logo */}
         <a href="#hero" className="font-display text-lg text-fg tracking-tight">
-          KS<span className="text-accent">.</span>
+          KSA<span className="text-accent">.</span>
         </a>
 
         {/* Desktop Nav */}
