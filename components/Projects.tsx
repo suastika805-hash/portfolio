@@ -5,9 +5,9 @@ import { useEffect, useRef, useState } from "react";
 const projects = [
   {
     id: 1,
-    name: "QuickBrew — Aplikasi Pemesanan Kopi Cepat",
+    name: "Aplikasi Pemesanan Kopi Cepat",
     description:
-      "Aplikasi web untuk memesan kopi dengan cepat dan mudah. Pengguna dapat memilih menu, mengustomisasi pesanan (ukuran, susu, level gula), lalu checkout dalam hitungan detik. Dilengkapi fitur riwayat pesanan dan estimasi waktu pengambilan.",
+      "Aplikasi masih dalam bentuk prototype dan akan saya kembangkan lebih lanjut. Pengguna dapat memilih menu, mengustomisasi pesanan (ukuran, susu, level gula), lalu checkout dalam hitungan detik. Dilengkapi fitur riwayat pesanan dan estimasi waktu pengambilan.",
     tech: ["Next.js", "Tailwind CSS", "MySQL", "TypeScript"],
     status: "In Progress",
     icon: "☕",
