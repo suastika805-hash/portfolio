@@ -66,8 +66,8 @@ export default function Projects() {
           }`}
         >
           Kumpulan proyek yang saya bangun untuk mengasah kemampuan dan
-          menyelesaikan masalah nyata. Setiap proyek adalah pembelajaran baru. 
-          Aplikasi ini masih dalam bentuk prototype dan akan saya kembangkan lebih lanjut.
+          menyelesaikan masalah nyata. Setiap proyek adalah pembelajaran baru. Aplikasi saya buat pada semester sebelumnya dan 
+          masih dalam bentuk prototype yang akan saya kembangkan lebih lanjut nantinya.
         </p>
 
         {/* Project Cards */}
