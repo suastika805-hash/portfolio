@@ -7,8 +7,8 @@ const projects = [
     id: 1,
     name: "Aplikasi Pemesanan Kopi Cepat",
     description:
-      "Aplikasi web untuk memesan kopi dengan cepat dan mudah. Pengguna dapat memilih menu, mengustomisasi pesanan (ukuran, susu, level gula), lalu checkout dalam hitungan detik. Dilengkapi fitur riwayat pesanan dan estimasi waktu pengambilan.",
-    tech: ["Next.js", "Tailwind CSS", "MySQL", "TypeScript"],
+      "Aplikasi web untuk memesan kopi dengan cepat dan mudah. Pengguna dapat memilih menu, mengustomisasi pesanan (ukuran, jumlah pesanan, tambah susu, gula dan topping lainnya), lalu checkout dalam hitungan detik. Dilengkapi fitur riwayat pesanan dan estimasi waktu pengambilan.",
+    tech: ["Figma", "Next.js", "Tailwind CSS", "MySQL", "TypeScript"],
     status: "In Progress",
     icon: "☕",
     highlights: [
